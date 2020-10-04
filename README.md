@@ -8,7 +8,7 @@
 	 I have already designed some themes and am still working on them. 
 </p>
 <p>
-	Since I haven't released any themes yet, I'm thinking of releasing a modified theme for the first time for Snowflat. 
+	Since I haven't released any themes yet, I'm thinking of releasing a modified theme of snowflat for the first time.
 </p>
 <p>
 	Now my first theme is published. 
