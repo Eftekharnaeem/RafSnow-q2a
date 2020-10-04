@@ -1,17 +1,17 @@
 <?php
 /*
-	Enobyas Theme for enolez
-	Copyright (C) 2019 Ashraf <https://www.enolez.com>
+	RafSnow Theme for Question2answer
+	Copyright (C) 2020 <https://www.enolez.com>
 
 	File:           qa-theme.php
-	Version:        eno 1.4
+	Version:        eno 1.1
 	Description:    Q2A theme class
 
-	This program is paid software: This theme is created by Md.Ashraf Uddin Khan.. You can buy this theme and use your site..
+	This program is free software: This theme is created by Md.Ashraf Uddin Khan.
 */
 
 /**
- * Eno theme extends
+ * Snow theme extends
  *
  * Extends the core theme class <code>qa_html_theme_base</code>
  *
