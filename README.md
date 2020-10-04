@@ -1,7 +1,3 @@
-
-<h2>Description</h2><br />
-.. RafSnow is a similar version of SnowFlat responsive theme for Question2Answer
--------------------
 <h2>
 	Description
 </h2>
